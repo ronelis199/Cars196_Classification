@@ -91,17 +91,6 @@ Pillow
 - **Image Retrieval** demonstrated high-quality similarity matching.
 - **End-to-End CNN** required more tuning and experimentation, offering learning flexibility and full control.
 
-## 📌 Future Work
-
-- Experiment with other pre-trained backbones (e.g., EfficientNet)
-- Hyperparameter optimization (e.g., Optuna, Ray Tune)
-- Deploy as a car recognition web app (Streamlit/Flask + frontend)
-- Extend dataset with synthetic data
 
 
-
-
-## 📄 License
-
-This project is for academic use. Please contact the author for other uses.
 
